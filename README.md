@@ -54,6 +54,8 @@ Les éditions du menu sont à faire dans [`/src/App.vue`](/src/App.vue)
 
 Les éditions du menu sont à faire dans [`/src/pages/index.vue`](/src/pages/index.vue)
 
+Si possible, essayer aussi de faire chaque exercice dans une page séparée (fichiers dans le dossier `/src/pages/`), avec liens (`<RouterLink to="...">`) dans `/src/App.vue` .
+
 - Faire le code HTML de l'accordéon :
   - `section*3>btn.text-xl{bouton $}+p>lorem`
 - Testez, faire un commit
